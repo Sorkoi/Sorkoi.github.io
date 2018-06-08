@@ -1,0 +1,33 @@
+body {
+  background-color: grey;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 {
+	color: indianred;
+	font-size: 48px;
+	text-align: center;
+}
+
+h3 {
+	color: navy;
+	font-size: 200%;
+}
+
+h5 {
+	color: red;
+	font-size: 200%;
+}
+
+p {
+	font-size: 150%;
+}
+li {
+	font-size: 120%;
+}
+
+img {
+	display: image;
+	margin: auto;
+	width: 40%
+}
